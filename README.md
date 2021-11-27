@@ -7,4 +7,4 @@
 ![BusReservationSystem](image/introduction.JPG)
 
 ## GUI
-![BusReservationSystem](image/gui.JPG)
+![BusReservationSystem](image/gui.jpg)
