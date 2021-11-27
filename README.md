@@ -1,2 +1,10 @@
 # BusReservationSystem
-JAVA Project
+
+## JAVA Project 
+- - -
+
+## Introduction
+![BusReservationSystem](image/introduction.JPG)
+
+## GUI
+![BusReservationSystem](image/gui.JPG)
